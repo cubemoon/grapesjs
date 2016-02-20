@@ -43,6 +43,13 @@ $ git clone https://github.com/artf/grapesjs.git
 $ cd grapesjs
 ```
 
+Install bower and grunt globally
+
+```sh
+$ npm install -g bower
+$ npm install -g grunt
+```
+
 Install all necessary dependencies
 
 ```sh
